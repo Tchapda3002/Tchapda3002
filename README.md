@@ -76,14 +76,20 @@ class WilfredTchapda:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tchapda3002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tchapda3002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<a href="https://github.com/Tchapda3002">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tchapda3002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+</a>
+<a href="https://github.com/Tchapda3002">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tchapda3002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tchapda3002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/Tchapda3002">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tchapda3002&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -102,7 +108,7 @@ class WilfredTchapda:
 
 <div align="center">
 
-📧 **Email:** wilfredkouadjo006@gmail.com
+📧 **Email:** wilfredkouadjo@gmail.com
 
 💼 **LinkedIn:** [linkedin.com/in/wilfredtchapda](https://linkedin.com/in/wilfredtchapda)
 
