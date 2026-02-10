@@ -24,7 +24,7 @@ class WilfredTchapda:
         self.objectif = "Devenir Actuaire et expert en IA appliquée à la finance"
 ```
 
-🔭 Actuellement en 3ème année à l'**ENSAE Dakar**, je me spécialise dans l'analyse statistique et l'intelligence artificielle appliquée aux problématiques financières et actuarielles.
+🔭 Actuellement en 3ème année à l'**ENSAE Dakar**, je me spécialise dans l'analyse statistique option Data Science.
 
 💡 Je transforme les données en **insights actionnables** et développe des solutions **ML en production**.
 
